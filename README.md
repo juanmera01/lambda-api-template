@@ -1,5 +1,5 @@
 # lambda-api-template
-This a node template for a simple API running over AWS Lambda
+This is a node template for a simple API running over AWS Lambda.
 
 ## This is a template, it means that youu MUST adapt the project to your need. 
 
