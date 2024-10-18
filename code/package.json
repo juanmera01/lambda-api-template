@@ -1,0 +1,19 @@
+{
+  "name": "lambda-api-template",
+  "version": "1.0.0",
+  "description": "lambda function that is a template for a simple API",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juanmera01/lambda-api-template.git"
+  },
+  "author": "juannmera3@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.3",
+    "jest-junit": "^14.0.1"
+  }
+}

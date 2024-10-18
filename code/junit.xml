@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="13" failures="0" errors="0" time="0.448">
+  <testsuite name="Low level event validity tests" errors="0" failures="0" skipped="0" timestamp="2024-10-18T13:58:54" time="0.328" tests="13">
+    <testcase classname="Low level event validity tests No event" name="Low level event validity tests No event" time="0.009">
+    </testcase>
+    <testcase classname="Low level event validity tests No path parameters" name="Low level event validity tests No path parameters" time="0">
+    </testcase>
+    <testcase classname="Low level event validity tests No method" name="Low level event validity tests No method" time="0">
+    </testcase>
+    <testcase classname="Low level event validity tests Bad resource" name="Low level event validity tests Bad resource" time="0.001">
+    </testcase>
+    <testcase classname="Low level event validity tests Bad path params 1" name="Low level event validity tests Bad path params 1" time="0.002">
+    </testcase>
+    <testcase classname="Low level event validity tests Bad path params 2" name="Low level event validity tests Bad path params 2" time="0">
+    </testcase>
+    <testcase classname="Low level event validity tests Bad path params 3" name="Low level event validity tests Bad path params 3" time="0.001">
+    </testcase>
+    <testcase classname="Low level event validity tests Unsupported method" name="Low level event validity tests Unsupported method" time="0">
+    </testcase>
+    <testcase classname="options tests Options /" name="options tests Options /" time="0.006">
+    </testcase>
+    <testcase classname="options tests Options resource" name="options tests Options resource" time="0.003">
+    </testcase>
+    <testcase classname="Content tests Get root" name="Content tests Get root" time="0.002">
+    </testcase>
+    <testcase classname="Content tests Set one resource" name="Content tests Set one resource" time="0.002">
+    </testcase>
+    <testcase classname="Content tests Set one resource without body" name="Content tests Set one resource without body" time="0.002">
+    </testcase>
+  </testsuite>
+</testsuites>

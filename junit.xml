@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="22" failures="0" errors="0" time="1.65">
+  <testsuite name="Low level file tests" errors="0" failures="0" skipped="0" timestamp="2024-10-17T09:00:38" time="1.058" tests="22">
+    <testcase classname="Low level file tests File not found" name="Low level file tests File not found" time="0.021">
+    </testcase>
+    <testcase classname="Low level file tests File not accessible" name="Low level file tests File not accessible" time="0.002">
+    </testcase>
+    <testcase classname="Low level file tests File IO error" name="Low level file tests File IO error" time="0.005">
+    </testcase>
+    <testcase classname="Low level file tests File not writeable" name="Low level file tests File not writeable" time="0.003">
+    </testcase>
+    <testcase classname="Low level event validity tests No event" name="Low level event validity tests No event" time="0.003">
+    </testcase>
+    <testcase classname="Low level event validity tests No path parameters" name="Low level event validity tests No path parameters" time="0.001">
+    </testcase>
+    <testcase classname="Low level event validity tests No method" name="Low level event validity tests No method" time="0">
+    </testcase>
+    <testcase classname="Low level event validity tests Bad resource" name="Low level event validity tests Bad resource" time="0">
+    </testcase>
+    <testcase classname="Low level event validity tests Bad path params 1" name="Low level event validity tests Bad path params 1" time="0">
+    </testcase>
+    <testcase classname="Low level event validity tests Bad path params 2" name="Low level event validity tests Bad path params 2" time="0">
+    </testcase>
+    <testcase classname="Low level event validity tests Bad path params 3" name="Low level event validity tests Bad path params 3" time="0.001">
+    </testcase>
+    <testcase classname="Low level event validity tests Unsupported method" name="Low level event validity tests Unsupported method" time="0">
+    </testcase>
+    <testcase classname="options tests Options /" name="options tests Options /" time="0.017">
+    </testcase>
+    <testcase classname="options tests Options provider" name="options tests Options provider" time="0.008">
+    </testcase>
+    <testcase classname="Content tests Get Full file" name="Content tests Get Full file" time="0.011">
+    </testcase>
+    <testcase classname="Content tests Get one provider" name="Content tests Get one provider" time="0.009">
+    </testcase>
+    <testcase classname="Content tests Get non existing provider" name="Content tests Get non existing provider" time="0.013">
+    </testcase>
+    <testcase classname="Content tests Set one provider" name="Content tests Set one provider" time="0.027">
+    </testcase>
+    <testcase classname="Content tests Set one provider without body" name="Content tests Set one provider without body" time="0.015">
+    </testcase>
+    <testcase classname="Content tests Set one provider without valid version to set" name="Content tests Set one provider without valid version to set" time="0.01">
+    </testcase>
+    <testcase classname="Content tests Set one provider without valid version to set" name="Content tests Set one provider without valid version to set" time="0.01">
+    </testcase>
+    <testcase classname="Content tests Set one provider without valid version to set" name="Content tests Set one provider without valid version to set" time="0.019">
+    </testcase>
+  </testsuite>
+</testsuites>
