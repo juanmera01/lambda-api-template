@@ -1,7 +1,7 @@
 # lambda-api-template
 This is a node template for a simple API running over AWS Lambda.
 
-## This is a template, it means that youu MUST adapt the project to your need. 
+## This is a template, it means that you MUST adapt the project to your need. 
 
 If you want this code to run in a Lambda function behind an API Gateway, you need to configure the **integration templates**. 
 
